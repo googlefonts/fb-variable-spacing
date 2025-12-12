@@ -1,8 +1,8 @@
 extensionName: Variable Spacing
-repository: https://github.com/gferreira/VariableSpacing
+repository: https://github.com/googlefonts/fb-variable-spacing
 extensionPath: VariableSpacing.roboFontExt
 description: Tools to add a spacing axis to variable fonts.
 developer: Gustavo Ferreira
 developerURL: https://github.com/gferreira
 tags: [variable fonts, spacing, designspace, workflow]
-icon: https://github.com/gferreira/VariableSpacing/raw/master/VariableSpacingIcon.png
+icon: https://github.com/googlefonts/fb-variable-spacing/raw/master/VariableSpacingIcon.png
