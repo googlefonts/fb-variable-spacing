@@ -2,6 +2,7 @@ Variable Spacing
 ================
 
 Tools to add a spacing axis to variable fonts.
+Also developed at [github.com/gferreira/fb-variable-spacing](https://github.com/gferreira/fb-variable-spacing)
 
 Background
 ----------
@@ -22,4 +23,4 @@ In this repository
 - demo fonts and their respective build scripts
 - DrawBot scripts to visualize and compare spacing in a designspace
 
-see the [documentation](https://googlefonts.github.io/fb-variable-spacing/) for more info 
+To learn more, see the [documentation website](https://googlefonts.github.io/fb-variable-spacing/)
